@@ -1,0 +1,18 @@
+############################
+### Ignore the following ###
+############################
+
+# Ignore the following extensions:
+##################################
+
+*.fits
+*.pdf
+*.dat
+*.isc_2mass
+*.txt
+*.iso.cmd
+*.jpg
+*.png
+
+# Ignore the following files:
+#############################
