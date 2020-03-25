@@ -9,6 +9,7 @@
 *.fits.gz
 *.pdf
 *.dat
+*.icloud
 *.isc_2mass
 *.txt
 *.iso.cmd
